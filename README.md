@@ -17,15 +17,20 @@ The primary purpose of this project is to offer a holistic and personalized appr
 
 
 1. Disease Prediction using Symptoms
+   
 Utilizing advanced NLP techniques, the system analyzes symptoms provided by users to predict potential health risks. This feature allows for early detection and proactive management of diseases based on personalized health indicators.
 
-2. Genetic Analysis
+3. Genetic Analysis
+   
 The system incorporates Gen AI for in-depth genetic analysis, identifying potential genetic markers associated with specific health conditions. This enhances the precision of health recommendations, ensuring personalized insights based on an individual's unique genetic makeup.
 
-3. Lifestyle Recommendations
+5. Lifestyle Recommendations
+   
 Considering lifestyle factors such as diet, exercise, and stress levels, the system provides tailored recommendations to promote a healthier lifestyle. This feature aims to address preventive care by suggesting personalized lifestyle modifications.
 
-Functionalities
+**Functionalities**
+
+
 User Input: Users can input their medical history, symptoms, and lifestyle information through a user-friendly interface.
 Analysis: The system employs Gen AI and NLP to analyze the input data, extracting relevant insights.
 Disease Prediction: Based on the analysis, the system predicts potential health risks and recommends suitable interventions.
