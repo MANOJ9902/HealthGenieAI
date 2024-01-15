@@ -46,8 +46,11 @@ This project integrates artificial intelligence to provide personalized health r
 **Prerequisites**
 
 Python 3.x
+
 Pip (Python package installer)
+
 Google Cloud Vision API credentials (ServiceAccountToken.json)
+
 OpenAI GPT-3 API key 
 
 
@@ -56,6 +59,7 @@ OpenAI GPT-3 API key
 Clone the repository:
 
 git clone https://github.com/your_username/healthcare-ai.git
+
 cd healthcare-ai
 
 Install the required Python packages:
