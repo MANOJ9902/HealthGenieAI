@@ -58,28 +58,28 @@ OpenAI GPT-3 API key
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/healthcare-ai.git
+     git clone https://github.com/your_username/healthcare-ai.git
 
-cd healthcare-ai
+     cd healthcare-ai
 
 
 
 2. Install the required Python packages:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 3. Set up Google Cloud Vision API:
 
- Ensure you have a Google Cloud Platform account and have created a project.
+    Ensure you have a Google Cloud Platform account and have created a project.
 
-Enable the Google Cloud Vision API for your project.
+    Enable the Google Cloud Vision API for your project.
 
-Download the JSON key file (ServiceAccountToken.json) and place it in the project directory.
+    Download the JSON key file (ServiceAccountToken.json) and place it in the project directory.
 
 4. Set up OpenAI GPT-3 API:
 
-Obtain an API key from OpenAI and replace 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 with your actual key in the code.
+    Obtain an API key from OpenAI and replace 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 with your actual key in the code.
 
 
 **Usage**
@@ -87,9 +87,9 @@ Obtain an API key from OpenAI and replace sk-U5rdu1ORtF7VQ6PhyjsnT3BlbkFJnXC3yss
 
 1. Run the Flask application:
 
-python app.py
+     python app.py
 
-Open a web browser and navigate to http://localhost:5000 to access the application.
+2.Open a web browser and navigate to http://localhost:5000 to access the application.
 
 
 
